@@ -1,4 +1,4 @@
-# NHS Diagnostic Waiting Times and Activity Infographic
+# NHS Diagnostic Waiting Times and Activity Infographic (Apr'23 - Mar'26)
 
 ![Infographic Preview](pbi1-infographic-preview.png)
 
@@ -83,6 +83,8 @@ The model is a **star schema** with 7 core tables plus 2 supporting tables:
 | `Dim_Region` | Dimension | Regional teams, appended across both fact tables |
 | `_Measures` | Measures table | Central home for all DAX measures |
 | `_Waterfall Categories` | Disconnected table | Drives the activity waterfall chart |
+
+![Data Model Preview](pbi1-data-model.png)
 
 Design decisions:
 
