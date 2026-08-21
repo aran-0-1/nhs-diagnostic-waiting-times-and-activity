@@ -425,7 +425,7 @@ A methodology footer runs beneath the section stating the dataset, scope, foreca
 
 | File | Description |
 | --- | --- |
-| `NHS_Diagnostic_Waiting_Times_and_Activity_Infographic_Final.pbix` | Power BI file containing the data model, Power Query transformations, DAX measures, and final infographic. |
+| `nhs-diagnostic-waiting-times-and-activity-infographic.pbix` | Power BI file containing the data model, Power Query transformations, DAX measures, and final infographic. |
 | `pbi1-infographic-preview.png` | Full infographic preview image. |
 | `pbi1-infographic-top.png` | Section 1 — context, headline KPIs, and the 1% standard crisis. |
 | `pbi1-infographic-middle.png` | Section 2 — the true diagnostic workload and hidden demand. |
@@ -441,4 +441,4 @@ Unofficial analysis of publicly available NHS England DM01 data. Not affiliated 
 
 ## Project Status
 
-Completed Project 3 of 5.
+Completed Project 3 of 5
